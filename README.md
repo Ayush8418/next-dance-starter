@@ -1,7 +1,7 @@
 
 
   <h1>🕺 Whiplash Dance Academy – Official Website</h1>
-  <img src="./public/theme-black/home.png" alt="Home Page Preview">
+  <img src="./public/screenshots/theme-black.png" alt="Home Page Preview">
 
   <p>A modern, fully responsive website built for <strong>Whiplash Dance Academy</strong> using <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>. The project features stunning UI with <strong>Aceternity UI components</strong>, interactive <strong>3D visuals</strong>, <strong>light/dark theme support</strong>, and a working <strong>contact form with email integration</strong>.</p>
 
@@ -63,17 +63,17 @@ npm run start</code></pre>
   <h2>🖼️ Additional Screenshots</h2>
 
   <h3>Theme Toggle</h3>
-  <img src="/screenshots/theme-white.png" alt="Theme Toggle">
+  <img src="./public/screenshots/theme-white.png" alt="Theme Toggle">
   <img src="./public/screenshots/theme-black.png" alt="Theme Toggle">
   
   <h3>Contact Form</h3>
-  <img src="./screenshots/contact.png" alt="Contact Form">
+  <img src="./public/screenshots/contact.png" alt="Contact Form">
 
   <h3>3D Component Section</h3>
-  <img src="screenshots/3d-section.png" alt="3D Components">
+  <img src="./public/screenshots/3d-section.png" alt="3D Components">
 
-  <h3>Extra Benefits cards</h3>
-  <img src="screenshots/benefits.png"/>
+  <h3>Extra Benefits cards and Footer</h3>
+  <img src="./public/screenshots/benefits.png"/>
 
   <h2>📄 License</h2>
   <p>This project is licensed under the <strong>MIT License</strong>.</p>
